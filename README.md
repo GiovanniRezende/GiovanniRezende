@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @GiovanniRezende
-- 👀 I’m interested in coding in general
-- 🌱 I’m currently learning Javascript, Html, Css and Python3
+-  Hi, I’m @GiovanniRezende
+-  I’m interested in coding in general
+-  I’m currently learning Javascript, Html, Css and Python3 and VueJS
 
 
 <!---
